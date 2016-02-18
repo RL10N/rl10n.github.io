@@ -1,0 +1,7 @@
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:title/
+url: http://rl10n.github.io
+author: RL10N
+name: RL10N
+description: R, localization, language, translation, internatinalization, l10n, i18n
